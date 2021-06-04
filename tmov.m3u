@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Parris-Jeyaraj-Telugu-2021-230x345.jpg",Parris-Jeyaraj
+https://my-bucket-s3-ap-east-amazonaws.uranus35.pw/2bQa1809xr16T9A_tRfdJYRcYza/s35/Parris-Jayaraj-Telugu-2021.mp4
+#EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Kala-Telugu-2021-230x345.jpg",Kala
+https://my-bucket-s3-ap-east-amazonaws.ultra34.pw/2bQa1809xr16T9A_tRfdJYRcYza/s34/Kala-Telugu-2021.mp4
 #EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Dubsmash-2020-230x345.jpg",Dubsmash
 https://my-bucket-s3-ap-east-amazonaws.vega33.pw/2bQa1809xr16T9A_tRfdJYRcYza/s33/Dubsmash-2020.mp4
 #EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/05/Cheekati-2021-230x345.jpg",Cheekati
