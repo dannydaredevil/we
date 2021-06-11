@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-language="Telugu" tvg-logo="",Test cmd
-https://www.dropbox.com/s/78e77bca1anefz3/Rgv.mp4?dl=1
-#EXTINF:-1 tvg-language="Telugu" tvg-logo="",Test dir
-https://www.dropbox.com/s/1yeubrfpmpjfpvp/MOVIESCAUNT.XYZ%E2%99%A5%EF%B8%8FANTI.MATTER.720P.mkv?dl=1
+#EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Rang-De-2021-230x345.jpg",Rang-De
+https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/Rang-De-2021.mp4
+#EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Ardha-Shathabdham-2021-230x345.jpg",Ardha-Shathabdham
+https://my-bucket-s3-ap-east-amazonaws.rigel38.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s38/Ardha-Shathabdham-2021.mp4
+#EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Balamitra-2021-230x345.jpg",Balamitra
+https://my-bucket-s3-ap-east-amazonaws.pleiades37.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s37/Balamitra-2021.mp4
 #EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Parris-Jeyaraj-Telugu-2021-230x345.jpg",Parris-Jeyaraj
 https://my-bucket-s3-ap-east-amazonaws.uranus35.pw/2bQa1809xr16T9A_tRfdJYRcYza/s35/Parris-Jayaraj-Telugu-2021.mp4
 #EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Kala-Telugu-2021-230x345.jpg",Kala
