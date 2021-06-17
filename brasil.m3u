@@ -441,7 +441,6 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=641032935
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 tvg-id="Rede Vida [Brazil]" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Canais | Religiosos",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="Canção Nova [Brazil]" tvg-logo="http://i.imgur.com/XqZCYLY.png" group-title="Canais | Religiosos",CANÇÃO NOVA
 #EXTINF:-1 tvg-id="Rede Século 21 [Brazil]" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Canais | Religiosos",REDE SÉCULO XXI
 https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="RCI" tvg-logo="https://portalquatro.com.br/wp-content/uploads/2019/03/tvpaieterno.jpg" group-title="Canais | Religiosos",TV PAI ETERNO (RCI)
