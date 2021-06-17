@@ -23,7 +23,6 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w645826328.m3u8
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fox Premium 1" tvg-logo="https://i.imgur.com/UWMgqQu.png" group-title="Canais | Filmes e Séries",TV CAPITAL (Séries)
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
-#EXTINF:-1 tvg-id="I Sat" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg" group-title="Canais | Filmes e Séries",TV NA ILHA (Filmes Lançamento)
 #EXTINF:-1 tvg-id="Classique TV" tvg-logo="https://i.imgur.com/Mcc2grC.jpg" group-title="Canais | Filmes e Séries",CLASSIQUE TV (FilmesAntigos)
 https://stmv6.srvstm.com/classique/classique/chunklist_w1892970465.m3u8
 #EXTINF:-1 tvg-id="Classique TV" tvg-logo="https://i.imgur.com/Mcc2grC.jpg" group-title="Canais | Filmes e Séries",CLASSIQUE TV 2 (Filmes Antigos)
@@ -42,7 +41,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="Spyke" tvg-logo="https://i.imgur.com/jx1VeJ7.jpg" group-title="Canais | Filmes e Séries",SPYKE (Itália)
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" group-title="Canais | Filmes e Séries",RAI MOVIE (Internacional)
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="" group-title="Canais | Filmes e Séries",ZEE MUNDO
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wham TV Classic" tvg-logo="https://imgur.com/ReKQeg6s.png" group-title="Canais | Filmes e Séries",Wham TV Classic
@@ -70,10 +68,6 @@ https://akamai.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/chunklist_w361954479.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://lineup.tv.br/canais/1615568048.gif" group-title="Canais | Variedades", DIARIO POPULAR IPTV / TV CIDADE DE SP
 https://cast.cdnseguro.com:19360/8012/8012.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnimg-latina-pe.secure.footprint.net/images/header/logo-header.png" group-title="Canais | Variedades",LATINA
-#EXTINF:-1 tvg-id="ESR" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Canais | Variedades",ESR TV
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.venn.tv/static/VENN_Logo-6119642346e58ae8b417d26f228b08fd.png" group-title="Canais | Variedades",VENN
-#EXTINF:-1 tvg-id="RBI TV" tvg-logo="https://cdn.mitvstatic.com/channels/br_rbi_m.png" group-title="Canais | Variedades",TV FIB (RBI TV)
 #EXTINF:-1 tvg-id="RBI TV" tvg-logo="https://cdn.mitvstatic.com/channels/br_rbi_m.png" group-title="Canais | Variedades",RBI TV
 https://live-ak.vimeocdn.com/exp=1622694835~acl=%2F8094c47e-9ace-410d-ad88-ad3663db709a%2F%2A~hmac=19b607d058ffdea739b2cee350ea17fea2d6a869ca84bd34d0e2e2ffccd1d26a/8094c47e-9ace-410d-ad88-ad3663db709a/chunklist_b3256000.m3u8?max_segments=10
 #EXTINF:0 channel-id="bet-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Canais | Variedades",BET BRASIL
@@ -124,7 +118,6 @@ http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w2091437466.m3u8
 #EXTINF:-1 tvg-id="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="Canais | Variedades",TELEMAX (Internacional)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://latele.com.py/wp-content/themes/latele/img/logo-latele.png" group-title="Canais | Variedades",LA TELE
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/470fc902333d534a6c54aee7427950ab.png" group-title="Canais | Variedades",TV MOÇAMBIQUE 1
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w195134477_b364000_slpor.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Variedades",TV MOÇAMBIQUE ESCOLA
@@ -159,8 +152,6 @@ https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/chunklist_w1724679818.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/04tEiC4.jpg" group-title="Canais | Entretenimento",VH1 (Italia)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1515898109&rn=-1916303254&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/04tEiC4.jpg" group-title="Canais | Entretenimento",VH1 INTERNACIONAL
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/04tEiC4.jpg" group-title="Canais | Entretenimento",VH1 USA
 #EXTINF:0 channel-id="mtv-biggest-pop" tvg-logo="https://i.imgur.com/kDvqIfw.jpg" group-title="Canais | Entretenimento",MTV BIGGEST POP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5aadef90-1bb2-47f4-9f66-7ff231f9b031&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.imgur.com/kDvqIfw.jpg" group-title="Canais | Entretenimento",MTV LA
@@ -249,14 +240,12 @@ https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1120351118.m3u
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 #EXTINF:-1 tvg-id="3ABN KIDS" tvg-logo="https://i.imgur.com/rg5j9my.jpg" group-title="Canais | Infantis",3ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/SQs/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Infantis",K2
 #EXTINF:-1 tvg-id="Record News" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Canais | Notícias",RECORD NEWS
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-logo="https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="Canais | Notícias",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 #EXTINF:-1 tvg-id="Band News" tvg-logo="https://i.imgur.com/Ti6V5ku.png" group-title="Canais | Notícias",BAND NEWS 
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
-#EXTINF:-1 tvg-id="Climatempo" tvg-logo="https://i.imgur.com/E37Dnat.png" group-title="Canais | Notícias",CLIMATEMPO BIO
 #EXTINF:-1 group-title="Canais | Notícias" tvg-id="RaiNews24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",RAI NEWS 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Canais | Notícias",FRANCE 24
@@ -277,20 +266,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1650280825.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="Canais | Esportes",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="Trip Brasil" tvg-logo="https://www.tripbrasilchannel.com.br/site/wp-content/uploads/2020/02/site.png" group-title="Canais | Esportes",TRIP BRASIL TV
-#EXTINF:-1 tvg-id="Sportv" tvg-logo="https://i.imgur.com/nYd3KZL.png" group-title="Canais | Esportes",SPORTV (Cortesia)
-#EXTINF:-1 tvg-id="Sportv 2" tvg-logo="https://i.imgur.com/nYd3KZL.png" group-title="Canais | Esportes",SPORTV 2 (Cortesia)
-#EXTINF:-1 tvg-id="Sportv 3" tvg-logo="https://i.imgur.com/nYd3KZL.png" group-title="Canais | Esportes",SPORTV 3 (Cortesia)
-#EXTINF:-1 tvg-id="Combate" tvg-logo="https://i.imgur.com/0qj3oxz.png" group-title="Canais | Esportes",COMBATE (Cortesia)
-#EXTINF:-1 tvg-id="OFF" tvg-logo="https://i.imgur.com/AIHOY9g.png" group-title="Canais | Esportes",OFF (Cortesia)
-#EXTINF:-1 tvg-id="Premiere" tvg-logo="https://i.imgur.com/X8lcFrS.jpg" group-title="Canais | Esportes",PREMIERE (Cortesia)
 #EXTINF:-1 tvg-id="Band Sports" tvg-logo="https://pbs.twimg.com/profile_images/1056593228546404352/kNo3jrRg_400x400.jpg" group-title="Canais | Esportes",BAND SPORTS (Cortesia)
 https://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1866925157.m3u8
-#EXTINF:-1  group-title="Canais | Esportes",MLB SPORTS
-#EXTINF:-1 tvg-id="Ad Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Abudhabisport.jpg" group-title="Canais | Esportes",ADTV SPORTS
-#EXTINF:-1 tvg-id="Garage TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8404016711a6edd34954b89e1a39b84c.jpg" group-title="Canais | Esportes",GARAGE TV
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVwKO.png" group-title="Canais | Esportes",COMBAT GO (Cortesia)
-#EXTINF:-1 tvg-id="" tvg-logo="https://hummingbird-ott.s3.amazonaws.com/images/theme/prod-stirr/stirr_logo_500x143_color.png" group-title="Canais | Esportes",STIRR SPORTS (Cortesia)
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Esportes",DUBAI RACING 
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Esportes",DUBAI RACING 2
@@ -311,13 +288,10 @@ https://edge-df-01.eduplay.rnp.br/media/ocp(r(UhDBPQ)t(AAAAAAAAAAA)p(d(VxY)k(hwo
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index480p.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="GLOBO TV TEM BAURU" tvg-logo="https://i.imgur.com/2EK2yMM.png" group-title="Canais | Abertos",GLOBO (Cortesia)
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1 tvg-id="Globo" tvg-name="GLOBO TV TEM BAURU" tvg-logo="https://i.imgur.com/2EK2yMM.png" group-title="Canais | Abertos",GLOBO HD (Cortesia) - offline
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="Canais | Abertos",SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="Canais | Abertos",SBT 
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT Interior" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="Canais | Abertos",SBT INTERIOR
-#EXTINF:-1 tvg-id="SBT Interior" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="Canais | Abertos",TV FLORESTA (SBT Pará)
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="Canais | Abertos",BAND HD
 https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1723365796.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="Canais | Abertos",BAND
@@ -326,7 +300,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
 #EXTINF:-1 tvg-id="RedeTV" tvg-name="REDE TV HD" tvg-logo="https://i.imgur.com/YVPa4BB.png" group-title="Canais | Abertos",REDETV! (Arapuan)
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w797063166_b1626232_DVR.m3u8
-#EXTINF:-1 tvg-id="RedeTV" tvg-name="REDE TV HD" tvg-logo="https://i.imgur.com/YVPa4BB.png" group-title="Canais | Abertos",REDETV! HD
 #EXTINF:-1 tvg-id="Rede Record" tvg-name="RECORD" tvg-logo="https://i.imgur.com/UhnTnPe.png" group-title="Canais | Abertos",RECORD TV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Record TV" tvg-name="RECORD" tvg-logo="https://i.imgur.com/UhnTnPe.png" group-title="Canais | Abertos",RECORD TV 
@@ -355,7 +328,6 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?Ita
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:-1 tvg-id="TV Meio Norte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg"  group-title="Canais | Abertos",TV DO POVO (Rede Meio Norte)
 https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/chunklist_w2066036014.m3u8
-#EXTINF:-1 tvg-id="TV Meio Norte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg"  group-title="Canais | Abertos",TV A (Rede Meio Norte)
 #EXTINF:-1  tvg-id="Top TV" tvg-logo="https://i.imgur.com/nFNKZ6W.jpg" group-title="Canais | Abertos",TV ESTADO (Top TV)
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="" group-title="Canais | Abertos",TV GAZETA
@@ -364,25 +336,20 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TV 8" tvg-logo="https://pa-str.srvsite.com/arquivos/6234/cabecalho-6234-20201128201422.png"  group-title="Canais | Abertos",TV 8 RO
 https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w1342332292.m3u8
-#EXTINF:-1  tvg-id="Futura" tvg-logo="https://i.imgur.com/A7vygB7.png" group-title="Canais | Abertos",TV UP (Futura)
-#EXTINF:-1  tvg-id="Futura" tvg-logo="https://i.imgur.com/A7vygB7.png" group-title="Canais | Abertos",FUTURA
 #EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="https://i.imgur.com/slWITgo.png" group-title="Canais | Abertos",TV CULTURA HD (Catve)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://i.imgur.com/slWITgo.png" group-title="Canais | Abertos",TV CULTURA (Futuro)
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="https://i.imgur.com/slWITgo.png" group-title="Canais | Abertos",TV CULTURA
 #EXTINF:-1 tvg-id="TV Brasil"  tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png" group-title="Canais | Abertos",TV BRASIL (TVE Bahia)
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="TV Brasil"  tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png" group-title="Canais | Abertos",TV BRASIL (TVE Brasil)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova TV Vale" tvg-logo="https://i.imgur.com/SpFD1Uo.jpg" group-title="Canais | Abertos",NOVA TV VALE
 https://5b7f3c45ab7c2.streamlock.net/8016/ngrp:8016/chunklist_w1899225291_b828000_DVR.m3u8
-#EXTINF:-1 tvg-id="TV Cidade Marilia" tvg-logo="http://pbr.srvsite.com/arquivos/6443/cabecalho-6443-20190409122954.png" group-title="Canais | Abertos",TV CIDADE MARÍLIA
 #EXTINF:-1 tvg-id="Rede CNT" tvg-logo="https://i.imgur.com/oiRXAMu.png" group-title="Canais | Abertos",REDE CNT (SP)
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
 #EXTINF:-1 tvg-id="NGT" tvg-logo="https://yata-apix-f3cc8007-25d7-45c8-98ed-24d9402d3c76.lss.locawebcorp.com.br/b3f6c3a71bfb45199b0fb19bf54f52ef.png" group-title="Canais | Abertos",REDE NGT
 https://cdn.jmvstream.com/w/AVJ-9644/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-id="PlayTV" tvg-logo="https://pbs.twimg.com/profile_images/1113192108062646272/JMhNQZIP.png"  group-title="Canais | Abertos",PLAYTV
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/100987566f7a57c654ac6f94c2a42b86.png" group-title="Canais | Abertos",TV METRÓPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w2133373253.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/331000de68258bdb7681313d840ec833.png" group-title="Canais | Abertos",TV POÇOS
@@ -567,14 +534,10 @@ https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
 http://162.244.80.106:11011/;stream/1
 #EXTINF:-1 group-title="Radios" tvg-logo="https://pbs.twimg.com/profile_images/2087684637/nativa_twitter_400x400.png" tvg-name=""radio=true,NATIVA FM
 https://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
-#EXTINF:-1 group-title="Radios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,CLUB MIX - Mix FM
-#EXTINF:-1 group-title="Radios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,CLASSICK ROCK - Mix FM
-#EXTINF:-1 group-title="Radios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,MALHANDO COM A - Mix FM
 #EXTINF:-1 group-title="Radios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,MIX FM (SP Interior)
 http://mixradio14.crossradio.com.br:8002/
 #EXTINF:-1 group-title="Radios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,BAÚ DA MIX - Mix FM
 http://mixradio14.crossradio.com.br:9500/
-#EXTINF:-1 group-title="Radios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,NO BREAK - Mix FM
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/VZerEiN.jpg" tvg-name=""radio=true,RÁDIO MANIA
 http://shout35.crossradio.com.br:8086/1/;stream/1
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/dbzCxqq.jpg" tvg-name=""radio=true,RÁDIO FM O DIA
@@ -589,12 +552,10 @@ https://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
 http://108.61.43.2:8232/stream2?sid=2/stream
 #EXTINF:-1  tvg-id="Globo FM" group-title="Radios" tvg-logo="https://i.imgur.com/nOwUE00.jpg" tvg-name=""radio=true,GLOBO FM
 https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
-#EXTINF:-1  tvg-id="89 Fm" group-title="Radios" tvg-logo="https://i.imgur.com/ii9fDP0.jpg" tvg-name=""radio=true,89 FM A RADIO ROCK
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/tb80O5e.gif" tvg-name=""radio=true,BAND FM
 https://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/9TjxK8W.jpg" tvg-name=""radio=true,KISS FM
 http://cloud2.cdnseguro.com:23538/stream
-#EXTINF:-1 group-title="Radios" tvg-logo="https://teamnoducky.files.wordpress.com/2015/03/rt.jpeg" tvg-name=""radio=true,RÁDIO TANG (Manutenção)
 #EXTINF:-1  tvg-id="Yeeah FM" group-title="Radios" tvg-logo="https://i.imgur.com/v6yb7lO.jpg" tvg-name=""radio=true,YEEAAH FM SP
 https://ssl.xcast.com.br:9946/stream?YeeaahFMSP
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/3dzOqv5.png" tvg-name=""radio=true,TEENNET FM (Yeeaah FM)
