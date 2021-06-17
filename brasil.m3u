@@ -61,7 +61,6 @@ https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
 #EXTINF:-1 tvg-id="YEE" tvg-logo="https://i.imgur.com/zbyUok8.png"  group-title="Canais | Variedades",TV TEENNET (Yeeaah)
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?TVTeenNet
-#EXTINF:-1 tvg-id="Mix TV" tvg-logo="https://i.imgur.com/2N8Fnd6.jpg"  group-title="Canais | Variedades",MIX TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2020/12/loading-tv-678x381.jpg" group-title="Canais | Variedades",LOADING TV
 https://akamai.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc9a8a02d0a188153981f64b4bc1abb5.webp"  group-title="Canais | Variedades",ANIMAX
@@ -370,7 +369,6 @@ http://flash8.crossdigital.com.br/2306/2306/chunklist_w1964766277.m3u8
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Abertos",TV GAZETA MA
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=37902564
-#EXTINF:-1 tvg-id="TV Manchete" tvg-logo="" group-title="Canais | Abertos",TV NOVA MANCHETE
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Abertos",REDE LIBERDADE
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Abertos",REDE UTV
