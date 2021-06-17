@@ -511,7 +511,6 @@ https://node-03.zeno.fm/ancdu4mpdg8uv?1614016581386
 http://transamerica.crossradio.com.br:9114/live.mp3?LISTABRBRASIL
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/rJE9SvV.png" tvg-name=""radio=true,RÁDIO DISNEY
 https://us-b4-p-e-by2-audio.cdn.mdstrm.com/live-audio/5b7dcf9b7f880d076b1ed74d/5ddfc57f4bee0054b9b3f511/icecast.audio
-#EXTINF:-1 group-title="Radios" tvg-logo="https://i.iheart.com/v3/re/assets/images/6395.png" tvg-name=""radio=true,NICK RADIO (Manutenção)
 #EXTINF:-1 group-title="Radios" tvg-logo="http://i.imgur.com/NeJf46K.jpg" tvg-name=""radio=true,COCA COLA FM
 http://listen.181fm.com:7080/181-power_128k.mp3
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i1.wp.com/radiosonlinesp.com.br/wp-content/uploads/2018/07/radio-jovem-pan-fm.png" tvg-name=""radio=true,JOVEM PAN FM
@@ -524,7 +523,6 @@ https://servidor34-1.brlogic.com:8194/live
 https://thebestofrbd.com.br/?qtproxycall=https%3A%2F%2Fr10.ciclano.io%3A15031%2Fstream&icymetadata=1&_=1609864802098
 #EXTINF:-1  tvg-id="Radio Show" group-title="Radios" tvg-logo="https://i.imgur.com/whbeRGL.png" tvg-name=""radio=true,RÁDIO SHOW
 http://ice11.crossradio.com.br:8164/live.aac
-#EXTINF:-1 group-title="Radios" tvg-logo="http://player.crosshost.com.br/playerdev/assets/img/clientes/2340/8561ed85fca055150535e540b6cc4a28.png" tvg-name=""radio=true,CAMPESTRE FM (Manutenção)
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/DncbaSr.jpg" tvg-name=""radio=true,BH FM
 https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/AoOo7LR.png" tvg-name=""radio=true,BAND FM (Vale)
