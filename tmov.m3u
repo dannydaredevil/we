@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="Comedy" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/LKG-2020-Telugu-2021-230x345.jpg",LKG
+https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/lkg-2021-kjyuwjhs2z/LKG-2020-Telugu-2021.mp4
+#EXTINF:-1 tvg-language="Drama/Thriller" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Jiivi-Telugu-2021-230x345.jpg",Jiivi
+https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/jeevi-2021-kjs87dffsd/Jeevi-Telugu-2021.mp4
+#EXTINF:-1 tvg-language="Drama" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Money-She-2021-230x345.jpg",Money She
+https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/money-she-2021-rz9ybckgcx/Money-She-2021.mp4
+#EXTINF:-1 tvg-language="Thriller" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/True-2021-230x345.jpg",True
+https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/true-2021-rx4ykjhes/True-2021.mp4
+#EXTINF:-1 tvg-language="Comedy" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/LOL-Salaam-2021-230x345.jpg",LOL Salaam
+https://my-bucket-s3-ap-east-amazonaws.ilemaamu.pw/2bQa1809xr16T9A_tRfdJYRcYza/s45/kg675fhgk245lkw4/LOL-Salaam-2021.mp4
 #EXTINF:-1 tvg-language="Crime-Comedy" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Jagame-Tantram-2021-230x345.jpg",Jagame Tantram
 https://my-bucket-s3-ap-east-amazonaws.ilemaamu.pw/2bQa1809xr16T9A_tRfdJYRcYza/s45/Jagame-Tantram-2021.mp4
 #EXTINF:-1 tvg-language="Thriller" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Fear-2021-230x345.jpg",Fear
