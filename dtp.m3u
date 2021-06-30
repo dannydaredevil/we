@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0 tvg-country="EG;MY" tvg-logo="" group-title="Undefined",Al Horreya,AL HORREYA TV (1920×1080),EG | Al Horreya
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CD" tvg-logo="" group-title="Music",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CD" tvg-logo="" group-title="Undefined",BOSS BROTHERS TV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Echorouk TV (720p)
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KE" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/K24-1.jpg" group-title="General",K24 [Not 24/7]
+https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Undefined",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Undefined",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/BuKv5Vj.png" group-title="Undefined",My TV Channel (576p)
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" group-title="Music",Play TV (480p)
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Undefined",Somali National TV
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SO" tvg-logo="http://shaashada.com/images/somalicable.png" group-title="Undefined",Somali cable
+https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ZM" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2018/10/cropped-ZNBC-logo-192x192.png" group-title="Undefined",TV4 (720p)
+https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NE" tvg-logo="" group-title="Undefined",Télé Sahel (480p)
+https://iptv--iptv.repl.co/French/tele_sahel/?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KE" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/UTV-1.jpg" group-title="General",UTV [Not 24/7]
+https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Undefined",Vision 4
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8?checkedby:iptvcat.com
