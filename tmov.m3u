@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="Drama/Sport" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2020/03/Jersey-2019-230x345.jpg",Jersey
+https://my-bucket-s3-ap-east-amazonaws.jaan55.pw/2bQa1809xr16T9A_tRfdJYRcYza/s55/Jersey-2019.mp4
 #EXTINF:-1 tvg-language="Action" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Pogaru-2021-230x345.jpg",Pogaru
 https://s100.ibomma.download/Pogaru-2021.mp4
 #EXTINF:-1 tvg-language="Drama" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Krishna-Mukundham-2021-230x345.jpg",Krishna Mukundham
