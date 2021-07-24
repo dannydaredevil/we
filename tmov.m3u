@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-language="Action" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Narappa-2021-230x345.jpg",Narappa
-https://my-bucket-s3-ap-east-amazonaws.bckupkevood.xyz/100_q2UhwuZ7N2_pU72TzJ7Xw/s102/Narappa-2021.mp4
+#EXTINF:-1 tvg-language="Comedy/Romance" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/14-Phere-Telugu-2021-230x345.jpg",14 Phere
+https://s100.ibomma.download/14-Phere-Telugu-2021.mp4
+#EXTINF:-1 tvg-language="Adventure" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Raya-And-The-Last-Dragon-Telugu-2021-230x345.jpg",Raya And The Last Dragon
+https://s104.ibomma.download/Raya-And-The-Last-Dragon-Telugu-2021.mp4
+#EXTINF:-1 tvg-language="Mystery/Thriller" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Needa-2021-230x345.jpg",Needa
+https://s103.ibomma.download/Needa-2021.mp4
 #EXTINF:-1 tvg-language="Drama" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Vaazhl-Telugu-2021-230x345.jpg",Vaazhl
 https://s101.ibomma.download/Vaazhl-Telugu-2021.mp4
 #EXTINF:-1 tvg-language="" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Kudi-Yedamaithe-Telugu-2021-230x345.jpg",Kudi-Yedamaithe
