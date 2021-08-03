@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="Drama/ Thriller" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/One-Telugu-2021-230x345.jpg",One
+https://my-bucket-s3-ap-east-amazonaws.nootanaalugu.xyz/100_q2UhwuZ7N2_pU72TzJ7Xw/s104/One-Telugu-2021.mp4
+#EXTINF:-1 tvg-language="Animation/ Comedy" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Luca-Telugu-2021-230x345.jpg",Luca
+https://my-bucket-s3-ap-east-amazonaws.nootamoodu.xyz/100_q2UhwuZ7N2_pU72TzJ7Xw/s103/Luca-Telugu-2021.mp4
+#EXTINF:-1 tvg-language="Crime/ Thriller" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Aadhi-Bhagavan-2021-230x345.jpg",Aadhi Bhagavan
+https://my-bucket-s3-ap-east-amazonaws.nootamoodu.xyz/100_q2UhwuZ7N2_pU72TzJ7Xw/s103/Aadi-Bhagavan-Telugu-2021.mp4
+#EXTINF:-1 tvg-language="Drama/ Romance" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Eswarecha-2021-230x345.jpg",Eswarecha
+https://my-bucket-s3-ap-east-amazonaws.nootaokkati.pw/100_q2UhwuZ7N2_pU72TzJ7Xw/s101/Eswarecha-2021.mp4
 #EXTINF:-1 tvg-language="Comedy/Romance" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/14-Phere-Telugu-2021-230x345.jpg",14 Phere
 https://s100.ibomma.download/14-Phere-Telugu-2021.mp4
 #EXTINF:-1 tvg-language="Adventure" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Raya-And-The-Last-Dragon-Telugu-2021-230x345.jpg",Raya And The Last Dragon
