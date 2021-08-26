@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-language="Comedy" tvg-logo="https://www.mirchi9.com/wp-content/uploads/2021/08/Paagal-Telugu-Movie-Review.jpg",Paagal
-https://drive.google.com/u/0/uc?export=download&confirm=CVmN&id=1rY1IjWlzdFOQvJn4z822qKYCHVapSCC-
+https://www.googleapis.com/drive/v3/files/1rY1IjWlzdFOQvJn4z822qKYCHVapSCC-?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
+#EXTINF:-1 tvg-language="Action/Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Monster_Hunter_Film_Poster.jpg",Monster Hunter
+https://www.googleapis.com/drive/v3/files/1HMOJiNRQNmsmWunLOylJo4oxpN9rbLUD?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Animation/ Comedy" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Luca-Telugu-2021-230x345.jpg",Luca
 https://my-bucket-s3-ap-east-amazonaws.nootamoodu.xyz/100_q2UhwuZ7N2_pU72TzJ7Xw/s103/Luca-Telugu-2021.mp4
 #EXTINF:-1 tvg-language="Crime/ Thriller" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Aadhi-Bhagavan-2021-230x345.jpg",Aadhi Bhagavan
