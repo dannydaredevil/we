@@ -1,67 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="ACtion/Drama" tvg-logo="https://i.imgur.com/UICikt1.jpg",Sridevi Soda Center
+https://www.googleapis.com/drive/v3/files/1fHRAf2cIpaYaYqwbbEL6UMoBEJLx-1eN?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Comedy" tvg-logo="https://www.mirchi9.com/wp-content/uploads/2021/08/Paagal-Telugu-Movie-Review.jpg",Paagal
 https://www.googleapis.com/drive/v3/files/1rY1IjWlzdFOQvJn4z822qKYCHVapSCC-?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Action/Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Monster_Hunter_Film_Poster.jpg",Monster Hunter
 https://www.googleapis.com/drive/v3/files/1HMOJiNRQNmsmWunLOylJo4oxpN9rbLUD?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
-#EXTINF:-1 tvg-language="Animation/ Comedy" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Luca-Telugu-2021-230x345.jpg",Luca
-https://my-bucket-s3-ap-east-amazonaws.nootamoodu.xyz/100_q2UhwuZ7N2_pU72TzJ7Xw/s103/Luca-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Crime/ Thriller" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Aadhi-Bhagavan-2021-230x345.jpg",Aadhi Bhagavan
-https://my-bucket-s3-ap-east-amazonaws.nootamoodu.xyz/100_q2UhwuZ7N2_pU72TzJ7Xw/s103/Aadi-Bhagavan-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Drama/ Romance" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Eswarecha-2021-230x345.jpg",Eswarecha
-https://my-bucket-s3-ap-east-amazonaws.nootaokkati.pw/100_q2UhwuZ7N2_pU72TzJ7Xw/s101/Eswarecha-2021.mp4
-#EXTINF:-1 tvg-language="Comedy/Romance" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/14-Phere-Telugu-2021-230x345.jpg",14 Phere
-https://s100.ibomma.download/14-Phere-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Adventure" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Raya-And-The-Last-Dragon-Telugu-2021-230x345.jpg",Raya And The Last Dragon
-https://s104.ibomma.download/Raya-And-The-Last-Dragon-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Mystery/Thriller" tvg-logo="https://ww4.ibomma.org/wp-content/uploads/2021/07/Needa-2021-230x345.jpg",Needa
-https://s103.ibomma.download/Needa-2021.mp4
-#EXTINF:-1 tvg-language="Drama" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Vaazhl-Telugu-2021-230x345.jpg",Vaazhl
-https://s101.ibomma.download/Vaazhl-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Kudi-Yedamaithe-Telugu-2021-230x345.jpg",Kudi-Yedamaithe
-https://s02.ibomma.download/Kudi-Yedamaithe-2021.mp4?md5=L87bJUs2gLk8FX8a6KJwGg&expires=1626906067
-#EXTINF:-1 tvg-language="Action/Thriller" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/State-Of-Siege-Temple-Attack-Telugu-2021-230x345.jpg",State-Of-Siege-Temple-Attack
-https://s100.ibomma.download/State-Of-Siege-Temple-Attack-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Action/Thriller" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Chethilo-Cheyyesi-Cheppu-Bava-2021-230x345.jpg",Chethilo-Cheyyesi-Cheppu-Bava
-https://s101.ibomma.download/Chethilo-Cheyyesi-Cheppu-Baava-2021.mp4
-#EXTINF:-1 tvg-language="Action" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Mojin-The-Treasure-Valley-Telugu-2021-230x345.jpg",Mojin-The-Treasure-Valley
-https://s100.ibomma.download/Mojin-The-Treasure-Valley-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Action" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/AAA-Telugu-2020-230x345.jpg",AAA
-https://s101.ibomma.download/AAA-Telugu-2020.mp4
-#EXTINF:-1 tvg-language="Thriller" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Y-Telugu-2017-230x345.jpg",Y?
-https://s101.ibomma.download/Y-Telugu-2017.mp4
-#EXTINF:-1 tvg-language="Action" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Vikramarkudu-The-Real-Don-2021-230x345.jpg",Vikramarkudu-The-Real-Don
-https://s100.ibomma.download/Vikramarkudu-2021.mp4
-#EXTINF:-1 tvg-language="Drama" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Thaen-Telugu-2021-230x345.jpg",Thaen
+#EXTINF:-1 tvg-language="Drama" tvg-logo="https://i.imgur.com/5W3pJOE.jpg",Thaen
 https://s45.ibomma.download/Thaen-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Action/Sci-Fi" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/The-Tomorrow-War-Telugu-2021-230x345.jpg",The-Tomorrow-War
-https://s100.ibomma.download/The-Tomorrow-War-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Crime/Mystery" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Haseen-Dillruba-Telugu-2021-230x345.jpg",Haseen-Dillruba
-https://s100.ibomma.download/Haseen-Dillruba-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Drama/Sport" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2020/03/Jersey-2019-230x345.jpg",Jersey
+#EXTINF:-1 tvg-language="Drama/Sport" tvg-logo="https://i.imgur.com/xSbtfVp.jpg",Jersey
 https://my-bucket-s3-ap-east-amazonaws.jaan55.pw/2bQa1809xr16T9A_tRfdJYRcYza/s55/Jersey-2019.mp4
-#EXTINF:-1 tvg-language="Action" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/07/Pogaru-2021-230x345.jpg",Pogaru
-https://s100.ibomma.download/Pogaru-2021.mp4
-#EXTINF:-1 tvg-language="Drama" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Krishna-Mukundham-2021-230x345.jpg",Krishna Mukundham
+#EXTINF:-1 tvg-language="Drama" tvg-logo="https://i.imgur.com/m1rbMO3.jpg",Krishna Mukundham
 https://s45.ibomma.download/Krishna-Mukundham-2021.mp4
-#EXTINF:-1 tvg-language="Comedy" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/LKG-2020-Telugu-2021-230x345.jpg",LKG
-https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/lkg-2021-kjyuwjhs2z/LKG-2020-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Drama/Thriller" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Jiivi-Telugu-2021-230x345.jpg",Jiivi
-https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/jeevi-2021-kjs87dffsd/Jeevi-Telugu-2021.mp4
-#EXTINF:-1 tvg-language="Drama" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Money-She-2021-230x345.jpg",Money She
-https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/money-she-2021-rz9ybckgcx/Money-She-2021.mp4
-#EXTINF:-1 tvg-language="Thriller" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/True-2021-230x345.jpg",True
-https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/true-2021-rx4ykjhes/True-2021.mp4
-#EXTINF:-1 tvg-language="Comedy" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/LOL-Salaam-2021-230x345.jpg",LOL Salaam
-https://my-bucket-s3-ap-east-amazonaws.ilemaamu.pw/2bQa1809xr16T9A_tRfdJYRcYza/s45/kg675fhgk245lkw4/LOL-Salaam-2021.mp4
-#EXTINF:-1 tvg-language="Crime-Comedy" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Jagame-Tantram-2021-230x345.jpg",Jagame Tantram
+#EXTINF:-1 tvg-language="Crime-Comedy" tvg-logo="https://i.imgur.com/aOp4rAr.jpg",Jagame Tantram
 https://my-bucket-s3-ap-east-amazonaws.ilemaamu.pw/2bQa1809xr16T9A_tRfdJYRcYza/s45/Jagame-Tantram-2021.mp4
-#EXTINF:-1 tvg-language="Thriller" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Fear-2021-230x345.jpg",Fear
+#EXTINF:-1 tvg-language="Thriller" tvg-logo="https://i.imgur.com/cwU1cWB.jpg",Fear
 https://my-bucket-s3-ap-east-amazonaws.pirrisunbujji42.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s42/Fear-2021.mp4
-#EXTINF:-1 tvg-language="Drama" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Mosagallu-2021-230x345.jpg",Mosagallu
+#EXTINF:-1 tvg-language="Drama" tvg-logo="https://i.imgur.com/OD4SERe.jpg",Mosagallu
 https://my-bucket-s3-ap-east-amazonaws.karty41.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s41/Mosagallu-2021.mp4
-#EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Skater-Girl-Telugu-2021-230x345.jpg",Skater Girl
+#EXTINF:-1 tvg-language="Telugu" tvg-logo="https://i.imgur.com/nTpN0bK.jpg",Skater Girl
 https://my-bucket-s3-ap-east-amazonaws.ballatrix40.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s40/Skater-Girl-2021.mp4
-#EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Pachchis-2021-230x345.jpg",Pachchis
+#EXTINF:-1 tvg-language="Telugu" tvg-logo="https://i.imgur.com/bdXhut3.jpg",Pachchis
 https://my-bucket-s3-ap-east-amazonaws.acrux39.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s39/Pachchis-2021.mp4
 #EXTINF:-1 tvg-language="Telugu" tvg-logo="https://ww3.ibomma.org/wp-content/uploads/2021/06/Rang-De-2021-230x345.jpg",Rang-De
 https://my-bucket-s3-ap-east-amazonaws.ptane44.xyz/2bQa1809xr16T9A_tRfdJYRcYza/s44/Rang-De-2021.mp4
