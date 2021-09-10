@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="Action/Drama" tvg-logo="https://i.imgur.com/PILRzTn.jpg",Tuck Jagadish
+https://www.googleapis.com/drive/v3/files/1XySMoorWnAFOYxrzJbsdlr5-pTvX35AL?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="ACtion/Drama" tvg-logo="https://i.imgur.com/UICikt1.jpg",Sridevi Soda Center
 https://www.googleapis.com/drive/v3/files/1fHRAf2cIpaYaYqwbbEL6UMoBEJLx-1eN?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Comedy" tvg-logo="https://www.mirchi9.com/wp-content/uploads/2021/08/Paagal-Telugu-Movie-Review.jpg",Paagal
