@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="Action/Drama" tvg-logo="https://i.imgur.com/74CSsBe.jpg",Seetimaarr
+https://www.googleapis.com/drive/v3/files/1--erQSchML1Qv4X22p0_F17T94-1JOu3?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Drama-Suspense" tvg-logo="https://i.imgur.com/wYjuMPv.jpg",NET
 https://www.googleapis.com/drive/v3/files/1-0nQJmV1b77YJQVf6cCQc8Gov2yA5ont?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Action/Drama" tvg-logo="https://i.imgur.com/PILRzTn.jpg",Tuck Jagadish
