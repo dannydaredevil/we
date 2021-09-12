@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="Day 6" tvg-logo="https://i.imgur.com/ofMesQ0.jpg",Ep 7
+https://www.googleapis.com/drive/v3/files/14jn6W_CLrJHtSdhjjYNdHbgcaRrtD0yy?alt=media&key=AIzaSyARhrbnxepjXICHHIIDs0ZOgwVPNti7Tno
 #EXTINF:-1 tvg-language="Day 5" tvg-logo="https://i.imgur.com/00h68sn.jpg",Ep 6
 https://www.googleapis.com/drive/v3/files/1-2OhSySO9l03oOGQmbwmY-Poe1bJvd2U?alt=media&key=AIzaSyARhrbnxepjXICHHIIDs0ZOgwVPNti7Tno
 #EXTINF:-1 tvg-language="Day 4" tvg-logo="https://i.imgur.com/aVdH6oz.jpg",Ep 5
