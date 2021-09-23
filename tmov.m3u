@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="Thriller" tvg-logo="https://i.imgur.com/MX4pU3h.jpg",Ishq: Not A Love Story
+https://www.googleapis.com/drive/v3/files/1-9kDW5IrcY2ceXmpZLa1Saor8NPt9mDO?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
+#EXTINF:-1 tvg-language="Comedy" tvg-logo="https://i.imgur.com/LVLnjqQ.jpg",Vivaha Bhojanambu
+https://www.googleapis.com/drive/v3/files/1s8fYoEWL3lvEBEEx6gdc2eVQxAMsMr4l?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Drama/Thriller" tvg-logo="https://i.imgur.com/hGhw1eC.jpg",Tughlaq Durbar
 https://www.googleapis.com/drive/v3/files/1ahMFB6ChORBYiqr0X04O2wxglzI_EIbi?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Action/Drama" tvg-logo="https://i.imgur.com/74CSsBe.jpg",Seetimaarr
