@@ -11,3 +11,5 @@ https://www.googleapis.com/drive/v3/files/1KnVs36nFOyaDB8lEBnK2MPbxjHJG7Duz?alt=
 https://www.googleapis.com/drive/v3/files/1-_FMMsjpCIRG7Hu_iwOk5HzcCnQMv0fk?alt=media&key=AIzaSyARhrbnxepjXICHHIIDs0ZOgwVPNti7Tno
 #EXTINF:-1 tvg-language="Day 0" tvg-logo="https://i.imgur.com/LAZWYr9.jpg",Ep 1
 https://www.googleapis.com/drive/v3/files/1xm_UEx5dkBSM-u6pSG_hvB_FHHh-HsmG?alt=media&key=AIzaSyARhrbnxepjXICHHIIDs0ZOgwVPNti7Tno
+#EXTINF:-1 tvg-language="Day 0" tvg-logo="https://i.imgur.com/LAZWYr9.jpg",Ep test
+https://my2test.s3.ap-southeast-1.amazonaws.com/DAY+00.mp4
