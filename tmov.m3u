@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-language="Thriller" tvg-logo="https://i.imgur.com/MX4pU3h.jpg",Ishq: Not A Love Story
-https://www.googleapis.com/drive/v3/files/1-9kDW5IrcY2ceXmpZLa1Saor8NPt9mDO?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
+#EXTINF:-1 tvg-language="Thriller/Mystery" tvg-logo="https://i.imgur.com/MDVrPXz.jpg",Cold Case
+https://my2test.s3.ap-southeast-1.amazonaws.com/Cold+Case.mkv
+#EXTINF:-1 tvg-language="Comedy" tvg-logo="https://i.imgur.com/b5ncX5w.jpg",Raja Raja Chora
+https://my2test.s3.ap-southeast-1.amazonaws.com/Raja+Raja+Chora.mkv
 #EXTINF:-1 tvg-language="Comedy" tvg-logo="https://i.imgur.com/LVLnjqQ.jpg",Vivaha Bhojanambu
 https://www.googleapis.com/drive/v3/files/1s8fYoEWL3lvEBEEx6gdc2eVQxAMsMr4l?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Drama/Thriller" tvg-logo="https://i.imgur.com/hGhw1eC.jpg",Tughlaq Durbar
@@ -11,8 +13,6 @@ https://www.googleapis.com/drive/v3/files/1--erQSchML1Qv4X22p0_F17T94-1JOu3?alt=
 https://www.googleapis.com/drive/v3/files/1-0nQJmV1b77YJQVf6cCQc8Gov2yA5ont?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Action/Drama" tvg-logo="https://i.imgur.com/PILRzTn.jpg",Tuck Jagadish
 https://www.googleapis.com/drive/v3/files/1XySMoorWnAFOYxrzJbsdlr5-pTvX35AL?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
-#EXTINF:-1 tvg-language="ACtion/Drama" tvg-logo="https://i.imgur.com/UICikt1.jpg",Sridevi Soda Center
-https://www.googleapis.com/drive/v3/files/1fHRAf2cIpaYaYqwbbEL6UMoBEJLx-1eN?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Comedy" tvg-logo="https://www.mirchi9.com/wp-content/uploads/2021/08/Paagal-Telugu-Movie-Review.jpg",Paagal
 https://www.googleapis.com/drive/v3/files/1V-7ysDsFkMwMgC2kTOHZCoGrmaUplsCi?alt=media&key=AIzaSyB1aHKBaTs3y5DP5XxaKFsbCzgfNUDKHbc
 #EXTINF:-1 tvg-language="Action/Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Monster_Hunter_Film_Poster.jpg",Monster Hunter
