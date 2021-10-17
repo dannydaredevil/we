@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-language="Romance" tvg-logo="https://i.imgur.com/3CxMYmd.jpg",Most Eligible Bachelor
+https://my2test.s3.ap-southeast-1.amazonaws.com/Most+Eligible+Bachelor+(2021)+720p+Telugu+DVDScr.mkv
 #EXTINF:-1 tvg-language="Thriller/Mystery" tvg-logo="https://i.imgur.com/MDVrPXz.jpg",Cold Case
 https://my2test.s3.ap-southeast-1.amazonaws.com/Cold+Case.mkv
 #EXTINF:-1 tvg-language="Comedy" tvg-logo="https://i.imgur.com/b5ncX5w.jpg",Raja Raja Chora
